@@ -1,4 +1,0 @@
-(sym_lib_table
-  (lib (name "ArduinoMicroSD")(type "KiCad")(uri "${KIPRJMOD}/Lib/ArduinoMicroSD.kicad_sym")(options "")(descr ""))
-  (lib (name "Rocket_Library")(type "KiCad")(uri "${KIPRJMOD}/Lib/Rocket_Library.kicad_sym")(options "")(descr ""))
-)
